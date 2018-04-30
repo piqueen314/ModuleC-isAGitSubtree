@@ -1,2 +1,2 @@
-# ModuleA-usingGitSubtree
-An example project that uses a git subtree
+# ModuleC-isAGitSubtree
+An example project that is a git subtree shared between two modules
