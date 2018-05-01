@@ -1,6 +1,7 @@
 package moduleC.modCPackage;
 
 public class funClass {
+    //test comment
     public String funmsg (){
         return "yo yo yo";
     }
