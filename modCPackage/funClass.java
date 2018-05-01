@@ -1,4 +1,4 @@
-package modCPackage;
+package moduleC.modCPackage;
 
 public class funClass {
     public String funmsg (){
@@ -8,6 +8,6 @@ public class funClass {
         return "Have more fun.";
     }
     public String soFun () {
-        return "This is fun, you just don't know it yet."
+        return "This is fun, you just don't know it yet.";
     }
 }
